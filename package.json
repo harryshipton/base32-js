@@ -11,7 +11,7 @@
   "main": "./lib/base32",
   "bin": "./bin/base32.js",
   "scripts": {
-    "test": "./node_modules/.bin/coffee test/*-test.coffee"
+    "test": "./node_modules/.bin/coffee test/base32-test.coffee"
   },
   "engines": {
     "node": ">0.4"
